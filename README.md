@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aziilah
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning JS frameworks, Laravel, RoR and Flutter
-- 💞️ I’m looking to collaborate
 - 📫 How to reach me nuraziilahawg@gmail.com
 
 <!---
