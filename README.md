@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aziilah
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning JS frameworks, Laravel, RoR and Flutter
+- 🌱 I’m currently learning JS frameworks, Laravel, and RoR
 - 📫 How to reach me nuraziilahawg@gmail.com
 
 <!---
